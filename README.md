@@ -5,6 +5,7 @@
 ## Results
   We found that the urban cities have more rides and drivers. However, the average fare per ride is lower. Also, rural cities have less rides and drivers but the average fare per ride is higher. Moreover, the total fare is higher in urban cities and lower in rural cities.
   
+![PyBer_fare_summary](https://user-images.githubusercontent.com/68616522/91006585-c2e04c00-e5a7-11ea-8ce3-ae22b03dfb29.png)
 
   
 ![Fig1](https://user-images.githubusercontent.com/68616522/91005674-73008580-e5a5-11ea-9397-a1622cfaf2da.png)
